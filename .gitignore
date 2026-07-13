@@ -1,0 +1,9 @@
+# Ignore datasets
+Dataset/
+
+# Ignore model weights
+*.keras
+*.pt
+
+# Ignore old/duplicate notebooks
+waterloggingproject (2).ipynb
